@@ -1,6 +1,6 @@
 # Novin Charm – Data Strategy & Architecture
 
-This project presents a real-world case study and proposal to modernize the data infrastructure of Novin Charm, a leading leather goods company in Iran. It was based on my hands-on experience as a Sales Manager and academic work during my MBA at The Hague University.
+This project presents a real-world case study and proposal to modernize the data infrastructure of Novin Charm, a leading leather goods company in Iran. It was based on my hands-on experience as a Junior Data Analytics and academic work during my MBA at The Hague University.
 
 ---
 
